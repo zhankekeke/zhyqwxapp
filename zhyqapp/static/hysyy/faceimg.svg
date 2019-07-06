@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>默认头像</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="会议室预约-预定付款" transform="translate(-28.000000, -400.000000)">
+            <g id="默认头像" transform="translate(28.000000, 400.000000)">
+                <g id="头像">
+                    <g id="分组-8">
+                        <circle id="椭圆形" fill="#00C1DE" cx="24" cy="24" r="24"></circle>
+                        <path d="M32.0894915,29.5886 C28.9359882,28.8598764 26.0006297,28.2220967 27.4230181,25.5385468 C31.749635,17.3690603 28.5699168,13 24.0003447,13 C19.3404251,13 16.2393514,17.5368847 20.5776713,25.5385468 C22.0414885,28.237801 18.9963555,28.8755807 15.9107298,29.5886 C13.3608697,30.1773919 13.0324822,31.3795866 13.0001818,33.4159812 C12.9868403,34.2904965 13.7096206,35 14.5831361,35 L33.4163831,35 C34.2903667,35 35.0136151,34.2902621 34.9998055,33.4159812 C34.9679732,31.3795866 34.6395856,30.1771575 32.0894915,29.5886 Z" id="路径" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+                <g id="默认" transform="translate(13.000000, 13.000000)"></g>
+            </g>
+        </g>
+    </g>
+</svg>

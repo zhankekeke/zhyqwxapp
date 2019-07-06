@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="82px" viewBox="0 0 96 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>空购物车</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="购买记录-空状态" transform="translate(-139.000000, -277.000000)" stroke="#CDCDCD" stroke-width="2">
+            <g id="空购物车" transform="translate(139.000000, 277.000000)">
+                <g id="分组-7" transform="translate(1.000000, 1.000000)">
+                    <g id="分组-9" transform="translate(0.000000, 3.000000)">
+                        <path d="M-3.26849658e-13,0.553030303 L5.81066321,0.553030303 C8.99939651,0.553030303 11.732129,2.8328147 12.303751,5.96989429 L20.4109738,50.4625887 C20.9825958,53.5996683 23.7153283,55.8794527 26.9040616,55.8794527 L78.054206,55.8794527" id="直线-9"></path>
+                        <path d="M13.7987013,11.6136364 L77.6977831,11.6136364 C80.7353492,11.6136364 83.1977831,14.0760702 83.1977831,17.1136364 C83.1977831,17.6045462 83.1320591,18.0932465 83.0023628,18.5667138 L78.0740169,36.5580492 C76.7646901,41.3378551 72.420751,44.6518943 67.4648574,44.6518943 L19.8305594,44.6518943 L13.7987013,11.6136364 Z" id="直线-10"></path>
+                        <ellipse id="椭圆形" cx="30.9090909" cy="67.469697" rx="5.51948052" ry="5.53030303"></ellipse>
+                        <ellipse id="椭圆形-copy" cx="69.5454545" cy="67.469697" rx="5.51948052" ry="5.53030303"></ellipse>
+                    </g>
+                    <g id="分组-5" transform="translate(86.500000, 5.000000) scale(-1, 1) translate(-86.500000, -5.000000) translate(78.000000, 0.000000)">
+                        <path d="M7.79548528,8.1241504 L1.79548528,5.6241504" id="直线-7" transform="translate(4.795485, 7.124150) rotate(20.000000) translate(-4.795485, -7.124150) "></path>
+                        <path d="M14.2674746,5.44044306 L12.2674746,0.440443057" id="直线-7-copy-2" transform="translate(13.767475, 2.940443) rotate(20.000000) translate(-13.767475, -2.940443) "></path>
+                        <path d="M10.9826437,6.14144035 L6.98264372,2.39144035" id="直线-7-copy" transform="translate(8.982644, 4.391440) rotate(20.000000) translate(-8.982644, -4.391440) "></path>
+                    </g>
+                    <g id="分组-6" transform="translate(0.000000, 79.000000)">
+                        <path d="M0.5,0.5 L65.5,0.5" id="直线-5"></path>
+                        <path d="M73.5,0.5 L85,0.5" id="直线-5-copy"></path>
+                        <path d="M69.5,0.5 L70,0.5" id="直线-5-copy-2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

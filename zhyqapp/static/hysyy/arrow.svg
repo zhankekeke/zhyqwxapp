@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="12px" viewBox="0 0 7 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>箭头</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="会议室预约" transform="translate(-349.000000, -142.000000)" fill="#00C1DE" fill-rule="nonzero" stroke="#00C1DE">
+            <g id="箭头" transform="translate(349.000000, 142.000000)">
+                <path d="M5.43729904,10.8965517 C5.50160772,10.9655172 5.58199357,11 5.67041801,11 C5.75884244,11 5.8392283,10.9655172 5.90353698,10.8965517 C6.03215434,10.7586207 6.03215434,10.5344828 5.90353698,10.3965517 L1.80385852,6 L5.90353698,1.60344828 C6.03215434,1.46551724 6.03215434,1.24137931 5.90353698,1.10344828 C5.77491961,0.965517241 5.5659164,0.965517241 5.43729904,1.10344828 L1.09646302,5.75 C0.967845659,5.88793103 0.967845659,6.11206897 1.09646302,6.25 L5.43729904,10.8965517 Z" id="Shape" transform="translate(3.500000, 6.000000) scale(-1, 1) translate(-3.500000, -6.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

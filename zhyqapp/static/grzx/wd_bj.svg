@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="11px" viewBox="0 0 12 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>编辑</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-343.000000, -235.000000)">
+            <g id="编辑" transform="translate(343.000000, 235.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="11.6059285" height="11"></rect>
+                <path d="M0,10.2788325 L10.9986172,10.2788325 L10.9986172,10.9648 L0,10.9648 L0,10.2788325 Z M0,9.80520596 L3.40617242,8.8886446 L0.973223488,6.59681616 L0,9.80520596 Z M9.09743798,3.52741664 L6.66445747,1.23555871 L1.31183806,6.27750332 L3.74478699,8.56913816 L9.09743798,3.52741664 Z M10.2282106,1.60224856 L8.70753309,0.169926679 C8.45558695,-0.0674361553 8.03352484,-0.0545124766 7.76476959,0.198558798 L7.03475762,0.885976083 L9.46775391,3.17781948 L10.1977185,2.4901932 C10.4664738,2.2371074 10.4801093,1.83964132 10.2282106,1.60224856 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

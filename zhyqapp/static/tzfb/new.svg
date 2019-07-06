@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>新建</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="28" cy="28" r="28"></circle>
+        <filter x="-36.6%" y="-27.7%" width="173.2%" height="173.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0481636961   0 0 0 0 0.56364724   0 0 0 0 0.641103316  0 0 0 0.200237772 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="通知发布" transform="translate(-287.000000, -535.000000)">
+            <g id="新建" transform="translate(287.000000, 535.000000)">
+                <g id="管家服务" transform="translate(12.000000, 7.000000)">
+                    <g id="椭圆形">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#00C1DE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+                <g id="编辑" transform="translate(27.000000, 22.000000)">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="26" height="26"></rect>
+                    <path d="M6.40605469,18.8728516 L12.3931641,17.7962891 L8.64042969,13.2488281 L6.40605469,18.8728516 Z M22.0466797,9.87695312 L18.2863281,5.33710937 L9.27265625,12.7308594 L13.0355469,17.2707031 L22.0466797,9.87695312 Z M24.3242188,6.59394531 L21.9730469,3.75273438 C21.5896484,3.28554688 20.8634766,3.23730469 20.3556641,3.64609375 L18.9871094,4.76328125 L22.7474609,9.31074219 L24.1160156,8.19355469 C24.6136719,7.78476563 24.7076172,7.06113281 24.3242188,6.59394531 Z M22.6128906,13.8404297 C21.9375,13.8404297 21.3916016,14.3863281 21.3916016,15.0617187 L21.3916016,18.4132812 C21.3916016,19.4289062 20.5689453,20.2515625 19.5533203,20.2515625 L6.59140625,20.2515625 C5.57578125,20.2515625 4.753125,19.4289062 4.753125,18.4132812 L4.753125,8.76992187 C4.753125,7.75429687 5.57578125,6.93164062 6.59140625,6.93164062 L7.85078125,6.93164062 C8.52617188,6.93164062 9.07207031,6.38574219 9.07207031,5.71035156 C9.07207031,5.03496094 8.52617188,4.4890625 7.85078125,4.4890625 L6.59140625,4.4890625 C4.22753906,4.4890625 2.31308594,6.40605469 2.31308594,8.76738281 L2.31308594,18.4107422 C2.31308594,20.7746094 4.23007813,22.6890625 6.59140625,22.6890625 L19.5533203,22.6890625 C21.9171875,22.6890625 23.8316406,20.7720703 23.8316406,18.4107422 L23.8316406,15.0591797 C23.8316406,14.3863281 23.2857422,13.8404297 22.6128906,13.8404297 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

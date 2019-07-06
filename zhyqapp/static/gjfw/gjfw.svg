@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>管家服务</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="40" cy="35" r="28"></circle>
+        <filter x="-36.6%" y="-27.7%" width="173.2%" height="173.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0481636961   0 0 0 0 0.56364724   0 0 0 0 0.641103316  0 0 0 0.200237772 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="帮助中心" transform="translate(-287.000000, -535.000000)">
+            <g id="管家服务" transform="translate(287.000000, 535.000000)">
+                <g id="椭圆形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#00C1DE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M33.0703036,36.4416201 C30.3227197,36.4416201 27.1238244,45.349162 28.2214138,46.0717877 C28.2214138,46.0717877 36.1861576,47.9455307 39.8905217,47.9963687 L37.7639423,36.4452514 L33.0703036,36.4452514 L33.0703036,36.4416201 Z M47.0176315,36.4416201 L42.0207115,36.4416201 L39.8941321,47.9963687 C39.944679,47.9963687 39.9952259,48 40.0457728,48 C43.6815375,48 51.8665213,46.075419 51.8665213,46.075419 C52.6608294,45.2293296 49.7652154,36.4416201 47.0176315,36.4416201 Z M39.8941321,22 C43.4215822,22 46.2774808,24.803352 46.2774808,28.2567039 C46.2774808,31.7136871 43.4179716,34.5134078 39.8941321,34.5134078 C36.3666821,34.5134078 33.5107835,31.7100559 33.5107835,28.2567039 C33.507173,24.803352 36.3666822,22 39.8941321,22 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

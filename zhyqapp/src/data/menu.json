@@ -1,0 +1,330 @@
+{
+  "users": [
+    {
+      "mobile": [
+        {
+          "Name": "移动端",
+          "Code": "mobile",
+          "Pcode": "user",
+          "SubMenus": [
+            {
+              "Name": "员工-首页",
+              "Code": "ygindex",
+              "Desc": "服务页面"
+            },
+            {
+              "Name": "企业服务",
+              "Code": "qyfw",
+              "Desc": "我的访客"
+            },
+            {
+              "Name": "个人中心",
+              "Code": "grzx",
+              "Desc": "登录页面"
+            },
+            {
+              "Name": "访客首页",
+              "Code": "fkindex",
+              "Desc": "员工首页内容"
+            },
+            {
+              "Name": "角色",
+              "Code": "juese",
+              "Desc": "角色管理"
+            },
+            {
+              "Name": "员工首页通知",
+              "Code": "ygsytz",
+              "Desc": "角色管理"
+            },
+            {
+              "Name": "编辑",
+              "Code": "ygsybj",
+              "Desc": "角色管理"
+            },
+            {
+              "Name": "通讯录",
+              "Code": "ygsytxl",
+              "Desc": "角色管理"
+            },
+            {
+              "Name": "通知发布",
+              "Code": "ygsytzfb",
+              "Desc": "员工首页通知发布"
+            },
+            {
+              "Name": "考勤记录",
+              "Code": "ygsykqjl",
+              "Desc": "员工首页考勤记录"
+            },
+            {
+              "Name": "会议室预约",
+              "Code": "ygsyhysyy",
+              "Desc": "员工首页会议室预约"
+            },
+            {
+              "Name": "访客管理",
+              "Code": "ygsyfkgl",
+              "Desc": "员工首页访客管理"
+            },
+            {
+              "Name": "园区活动",
+              "Code": "ygsyyqhd",
+              "Desc": "员工首页访客管理"
+            },
+            {
+              "Name": "园区活动详情",
+              "Code": "ygsyyqhdxq",
+              "Desc": "员工首页访客管理"
+            },
+            {
+              "Name": "餐厅实况",
+              "Code": "ygsyctsk",
+              "Desc": "员工首页访客管理"
+            },
+            {
+              "Name": "餐厅实况详情",
+              "Code": "ygsyctskxq",
+              "Desc": "员工首页访客管理"
+            },
+            {
+              "Name": "餐厅列表包间预定",
+              "Code": "ygsyctbjyd",
+              "Desc": "员工首页访客管理"
+            },
+            {
+              "Name": "餐厅列表包间详情",
+              "Code": "ygsyctbjxq",
+              "Desc": "餐厅列表包间详情"
+            },
+            {
+              "Name": "停车服务",
+              "Code": "ygsytcff",
+              "Desc": "员工首页停车服务"
+            },
+            {
+              "Name": "停车场全部",
+              "Code": "ygsytccqb",
+              "Desc": "员工首页停车服务"
+            },
+            {
+              "Name": "停车服务车辆详情",
+              "Code": "ygsyclxq",
+              "Desc": "员工首页停车场详情"
+            },
+            {
+              "Name": "新增车辆",
+              "Code": "ygsyxzcl",
+              "Desc": "员工首页停车场详情"
+            },
+            {
+              "Name": "停车场预约记录",
+              "Code": "ygsytccyyjl",
+              "Desc": "员工首页停车服务"
+            },
+            {
+              "Name": "停车场缴费记录",
+              "Code": "ygsytccjfjl",
+              "Desc": "员工首页停车服务"
+            },
+            {
+              "Name": "车辆绑定",
+              "Code": "ygsyclbd",
+              "Desc": "员工首页停车服务"
+            },
+            {
+              "Name": "车辆编辑",
+              "Code": "ygsyclbj",
+              "Desc": "员工首页停车编辑"
+            },
+            {
+              "Name": "积分商城",
+              "Code": "ygsyjfsc",
+              "Desc": "员工首页积分商城"
+            },
+            {
+              "Name": "积分商城订单记录",
+              "Code": "ygsyddjl",
+              "Desc": "积分商城订单记录"
+            },
+            {
+              "Name": "积分商城兑换记录",
+              "Code": "ygsydhjl",
+              "Desc": "积分商城兑换记录"
+            },
+            {
+              "Name": "积分商城订单详情",
+              "Code": "ygsyddxq",
+              "Desc": "积分商城订单详情"
+            },
+            {
+              "Name": "积分商城商品详情",
+              "Code": "ygsyspxq",
+              "Desc": "积分商城商品详情"
+            },
+            {
+              "Name": "系统通知",
+              "Code": "ygsy-xtxx-list",
+              "Desc": "消息分组列表"
+            },
+            {
+              "Name": "积分商城兑换详情",
+              "Code": "ygsydhxq",
+              "Desc": "积分商城兑换详情"
+            },
+            {
+              "Name": "管家服务",
+              "Code": "ygsygjfw",
+              "Desc": "员工首页管家服务"
+            },
+            {
+              "Name": "快递代收",
+              "Code": "ygsykdds",
+              "Desc": "员工首页快递代收"
+            },
+            {
+              "Name": "服务受理",
+              "Code": "ygsyfwsl",
+              "Desc": "员工首页服务受理"
+            },
+            {
+              "Name": "服务受理详情",
+              "Code": "ygsyfwslxq",
+              "Desc": "员工首页服务受理"
+            },
+            {
+              "Name": "服务处理",
+              "Code": "ygsyfwcl",
+              "Desc": "员工首页服务受理"
+            },
+            {
+              "Name": "服务受理再次处理",
+              "Code": "ygsyfwzccl",
+              "Desc": "员工首页服务受理"
+            },
+            {
+              "Name": "服务记录",
+              "Code": "ygsyfwjl",
+              "Desc": "员工首页服务受理"
+            },
+            {
+              "Name": "服务记录详情",
+              "Code": "ygsyfwjlxq",
+              "Desc": "员工首页服务记录详情"
+            },
+            {
+              "Name": "购买记录",
+              "Code": "ygsygmjl",
+              "Desc": "员工首页服务受理"
+            },
+            {
+              "Name": "全部分类",
+              "Code": "qbfl",
+              "Desc": "员工首页服务受理"
+            },
+            {
+              "Name": "员工我的个人信息",
+              "Code": "yggrxx",
+              "Desc": "员工我的个人信息"
+            },
+            {
+              "Name": "员工我的二维码",
+              "Code": "ygewm",
+              "Desc": "员工我的二维码"
+            },
+            {
+              "Name": "员工一卡通余额",
+              "Code": "ygyktye",
+              "Desc": "员工一卡通余额"
+            },
+            {
+              "Name": "员工积分余额",
+              "Code": "ygjfye",
+              "Desc": "员工积分余额"
+            },
+            {
+              "Name": "员工我的代金券",
+              "Code": "ygdjq",
+              "Desc": "员工积分余额"
+            },
+            {
+              "Name": "访客预约",
+              "Code": "fkyy",
+              "Desc": "访客预约"
+            },
+            {
+              "Name": "访客邀请列表",
+              "Code": "fkyqlb",
+              "Desc": "访客被邀请列表"
+            },
+            {
+              "Name": "访客预约列表",
+              "Code": "fkyylb",
+              "Desc": "访客预约列表"
+            },
+            {
+              "Name": "访客在线预约",
+              "Code": "fkzxyy",
+              "Desc": "访客预约列表"
+            },
+            {
+              "Name": "访客预约二维码",
+              "Code": "fkyyewm",
+              "Desc": "访客预约列表"
+            },
+             {
+              "Name": "访客停车管理",
+              "Code": "fkclgl",
+              "Desc": "访客预约列表"
+            },
+            {
+              "Name": "访客首页停车场全部",
+              "Code": "fksytccqb",
+              "Desc": "访客预约列表"
+            },
+             {
+              "Name": "访客首页停车服务",
+              "Code": "fksytcff",
+              "Desc": "访客预约列表"
+            },
+             {
+              "Name": "访客首页车辆详情",
+              "Code": "fksyclxq",
+              "Desc": "访客预约列表"
+            },
+            {
+              "Name": "访客首页停车场预约记录",
+              "Code": "fksytccyyjl",
+              "Desc": "访客预约列表"
+            },
+             {
+              "Name": "访客新增车辆",
+              "Code": "fksyxzcl",
+              "Desc": "访客预约列表"
+            },
+             {
+              "Name": "访客新增车辆",
+              "Code": "fksytccjfjl",
+              "Desc": "访客预约列表"
+            },
+            {
+              "Name": "一卡通充值",
+              "Code": "ygyktcz",
+              "Desc": "访客预约列表"
+            },
+            {
+              "Name": "管家服务订单受理",
+              "Code": "ygsyddsl",
+              "Desc": "访客预约列表"
+            },
+            {
+              "Name": "管家服务管家信息",
+              "Code": "ygsygjxx",
+              "Desc": "访客预约列表"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

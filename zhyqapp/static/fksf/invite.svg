@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="335px" height="563px" viewBox="0 0 335 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>票</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M335,306.475139 L335,555 C335,559.418278 331.418278,563 327,563 L8,563 C3.581722,563 -1.10869798e-13,559.418278 -1.11410881e-13,555 L-1.11410881e-13,306.475139 C0.171025353,306.481593 0.342838238,306.484848 0.515384615,306.484848 C8.20063933,306.484848 14.4307692,300.026895 14.4307692,292.060606 C14.4307692,284.094317 8.20063933,277.636364 0.515384615,277.636364 C0.342838238,277.636364 0.171025353,277.639619 -1.13686838e-13,277.646073 L-1.11410881e-13,8 C-1.11951964e-13,3.581722 3.581722,-1.69718632e-13 8,-1.70530257e-13 L327,-1.70530257e-13 C331.418278,-1.71341881e-13 335,3.581722 335,8 L335,277.646073 C327.553517,277.927107 321.6,284.273173 321.6,292.060606 C321.6,299.848039 327.553517,306.194105 335,306.475139 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="被邀请信息" transform="translate(-20.000000, -84.000000)">
+            <g id="分组-2" transform="translate(20.000000, 84.000000)">
+                <g id="票">
+                    <g>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="路径" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <path d="M9,292.5 L327.5,292.5" id="直线-copy" stroke="#E5E5E5" stroke-linecap="square" stroke-dasharray="5" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

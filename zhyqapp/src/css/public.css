@@ -1,0 +1,58 @@
+img{
+    overflow:hidden;
+}
+body {
+    height: 100%;
+    position: absolute;
+    width: 100%;
+}
+input{
+    box-shadow:none;
+    -webkit-appearance: none;
+}
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+    background-color: #fff;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+ ::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #afafaf;
+}
+
+.ivu-loading-bar-inner-color-primary {
+    background-color: #2db900;
+}
+
+ul {
+    list-style: none;
+}
+
+.disabled {
+    opacity: 0.2;
+}
+.text-ellipsis {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+@font-face {
+    font-family: "lcdD";
+    src: url('/static/LcdD.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DINAlternateBold";
+    src: url('/static/DINAlternateBold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="280px" height="264px" viewBox="0 0 280 264" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>出票</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-1.05167369%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00889D" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="5.28100176%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M23,17 L262.992589,17 L262.992589,256 L23,256 L23,17 Z M29,250.007389 L23,255.992611 L34.9692178,255.992611 L29,250.007389 Z M101,250.007389 L95,255.992611 L106.969218,255.992611 L101,250.007389 Z M185,250.007389 L179,255.992611 L190.969218,255.992611 L185,250.007389 Z M65,250.007389 L59,255.992611 L70.9692178,255.992611 L65,250.007389 Z M137,250.007389 L131,255.992611 L142.969218,255.992611 L137,250.007389 Z M221,250.007389 L215,255.992611 L226.969218,255.992611 L221,250.007389 Z M41,250.007389 L35,255.992611 L46.9692178,255.992611 L41,250.007389 Z M113,250.007389 L107,255.992611 L118.969218,255.992611 L113,250.007389 Z M197,250.007389 L191,255.992611 L202.969218,255.992611 L197,250.007389 Z M77,250.007389 L71,255.992611 L82.9692178,255.992611 L77,250.007389 Z M149,250.007389 L143,255.992611 L154.969218,255.992611 L149,250.007389 Z M233,250.007389 L227,255.992611 L238.969218,255.992611 L233,250.007389 Z M53,250.007389 L47,255.992611 L58.9692178,255.992611 L53,250.007389 Z M125,250.007389 L119,255.992611 L130.969218,255.992611 L125,250.007389 Z M209,250.007389 L203,255.992611 L214.969218,255.992611 L209,250.007389 Z M89,250.007389 L83,255.992611 L94.9692178,255.992611 L89,250.007389 Z M173,250.007389 L167,255.992611 L178.969218,255.992611 L173,250.007389 Z M161,250.007389 L155,255.992611 L166.969218,255.992611 L161,250.007389 Z M245,250.007389 L239,255.992611 L250.969218,255.992611 L245,250.007389 Z M257,250.007389 L251,255.992611 L262.969218,255.992611 L257,250.007389 Z" id="path-2"></path>
+        <filter x="-14.4%" y="-11.9%" width="120.4%" height="120.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="-10" dy="-4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.13 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="停车场-支付" transform="translate(-45.000000, -135.000000)">
+            <g id="分组-15" transform="translate(30.000000, 71.000000)">
+                <g id="分组-27">
+                    <g id="分组-26-copy" transform="translate(0.000000, 4.000000)">
+                        <g id="分组-25">
+                            <g id="分组-19" transform="translate(15.000000, 60.000000)">
+                                <g id="出票">
+                                    <rect id="矩形" fill="#1899C1" x="5" y="11" width="275" height="19" rx="9.5"></rect>
+                                    <g id="合并形状">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
