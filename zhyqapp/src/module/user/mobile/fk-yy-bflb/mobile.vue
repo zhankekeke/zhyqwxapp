@@ -54,7 +54,8 @@
         left: 6px;
     }
 
-    .wrap {
+    .wrap  {
+
         font-size: 14px;
         color: #666;
         background: rgba(246, 246, 246, 1);
