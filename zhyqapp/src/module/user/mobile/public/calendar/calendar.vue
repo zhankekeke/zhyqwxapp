@@ -164,7 +164,7 @@ wh_content_item_tag {
         </li>
       </div>
       <div class="wh_content">
-        <div class="wh_content_item" v-for="tag in textTop">
+        <div class="wh_content_item" v-for="(tag,index) in textTop" :key="index">
           <div class="wh_top_tag">
             {{tag}}
           </div>
