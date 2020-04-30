@@ -27,7 +27,7 @@
     "element-ui": "^2.4.11",
     "img-vuer": "^0.17.2",
     "iview": "^2.14.1",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.0",
     "json-stringify-safe": "^5.0.1",
     "lib-flexible": "^0.3.2",
     "localstorage": "^1.0.1",
